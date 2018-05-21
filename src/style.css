@@ -1,3 +1,11 @@
 .hello {
     color: red;
 }
+
+.konrafal-bg {
+    background: url('./images/konrafal2.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 50vh;
+}
